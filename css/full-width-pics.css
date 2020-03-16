@@ -1,0 +1,65 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.lead {
+    font-family: 'Playfair Display', serif;
+}
+
+p, ul {
+    font-family: 'Overpass', sans-serif;
+    font-size: 14px;
+}
+
+.prototypes {
+    color: #9FAC9A;
+    text-decoration: underline;
+}
+
+.nav-link {
+  line-height: none;
+   font-family: 'Overpass', sans-serif;
+   font-size: 14px;
+  margin-left: 18px;
+
+    
+}
+.navbar-brand {
+    font-family: 'Overpass', sans-serif;
+   font-size: 36px;
+    margin-left: -15px;
+    line-height: none;
+}
+
+nav {
+    height: 68px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+}
+
+img, #mockups {
+    display: block;
+    margin: 0 auto;
+    max-width: 75%;
+}
